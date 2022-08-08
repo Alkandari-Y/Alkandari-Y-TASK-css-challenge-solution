@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(27, 1, 49);
+    color: white;
+    text-align: center;
+}
+
+.container {
+    margin: 20px;
+}
+
+.movie-poster {
+    object-fit: contain;
+    width: 500px;
+    height: 500px;
+}
+
+.header {
+    font-family: "Dancing Script", cursive;
+    font-size: 55px;
+}
